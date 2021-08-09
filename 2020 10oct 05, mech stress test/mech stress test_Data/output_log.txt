@@ -1,0 +1,209 @@
+Mono path[0] = 'D:/Neo Paciffica/Learn to Things/Unity/Projects/Completed/MechTest/Builds/2020 10oct 05, mech stress test/mech stress test_Data/Managed'
+Mono path[1] = 'D:/Neo Paciffica/Learn to Things/Unity/Projects/Completed/MechTest/Builds/2020 10oct 05, mech stress test/mech stress test_Data/Mono'
+Mono config path = 'D:/Neo Paciffica/Learn to Things/Unity/Projects/Completed/MechTest/Builds/2020 10oct 05, mech stress test/mech stress test_Data/Mono/etc'
+PlayerConnection initialized from D:/Neo Paciffica/Learn to Things/Unity/Projects/Completed/MechTest/Builds/2020 10oct 05, mech stress test/mech stress test_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55290
+Multi-casting "[IP] 192.168.1.161 [Port] 55290 [Flags] 3 [Guid] 1773317981 [EditorId] 2614878899 [Version] 1048832 [Id] WindowsPlayer(LEVIATHAN) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [0.0.0.0:55290]...
+Timed out. Continuing without host connection.
+Started listening to [0.0.0.0:55290]
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56981
+PlayerConnection already initialized - listening to [0.0.0.0:55290]
+Player data archive not found at `D:/Neo Paciffica/Learn to Things/Unity/Projects/Completed/MechTest/Builds/2020 10oct 05, mech stress test/mech stress test_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 27.21.14.6172]
+    Renderer: NVIDIA GeForce GTX 1060 6GB
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 10oct 05, mech stress test\mech stress test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 10oct 05, mech stress test\mech stress test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 10oct 05, mech stress test\mech stress test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 10oct 05, mech stress test\mech stress test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 10oct 05, mech stress test\mech stress test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 10oct 05, mech stress test\mech stress test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 10oct 05, mech stress test\mech stress test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 10oct 05, mech stress test\mech stress test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 10oct 05, mech stress test\mech stress test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 10oct 05, mech stress test\mech stress test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 10oct 05, mech stress test\mech stress test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 10oct 05, mech stress test\mech stress test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 10oct 05, mech stress test\mech stress test_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 10oct 05, mech stress test\mech stress test_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 10oct 05, mech stress test\mech stress test_Data\Managed\XInputDotNetPure.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 10oct 05, mech stress test\mech stress test_Data\Managed\XInputDotNetPure.dll into Unity Child Domain
+- Completed reload, in  0.103 seconds
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 10oct 05, mech stress test\mech stress test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 10oct 05, mech stress test\mech stress test_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Setting to default shader.
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 5460x1680 at -1440,-331
+<RI> Initialized touch support.
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 1.077048 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 14f0 -> priority: 1 
+  Thread -> id: d54 -> priority: 1 
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 2.542902 ms
+Crash!!!
+SymInit: Symbol-SearchPath: '.;D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 10oct 05, mech stress test;D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 10oct 05, mech stress test;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Azure'
+OS-Version: 6.1.7601 (Service Pack 1) 0x300-0x1
+D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 10oct 05, mech stress test\mech stress test.exe:mech stress test.exe (013E0000), size: 23089152 (result: 0), SymType: '-exported-', PDB: 'D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 10oct 05, mech stress test\mech stress test.exe', fileVersion: 5.6.1.24755
+C:\Windows\SysWOW64\ntdll.dll:ntdll.dll (76F50000), size: 1572864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SysWOW64\ntdll.dll', fileVersion: 6.1.7601.24545
+C:\Windows\syswow64\kernel32.dll:kernel32.dll (74AD0000), size: 1114112 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\kernel32.dll', fileVersion: 6.1.7601.24545
+C:\Windows\syswow64\KERNELBASE.dll:KERNELBASE.dll (75B80000), size: 290816 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\KERNELBASE.dll', fileVersion: 6.1.7601.24545
+C:\Windows\system32\HID.DLL:HID.DLL (6F4C0000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\HID.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\msvcrt.dll:msvcrt.dll (753B0000), size: 704512 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\msvcrt.dll', fileVersion: 7.0.7601.17744
+C:\Windows\syswow64\USER32.dll:USER32.dll (750B0000), size: 1048576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\USER32.dll', fileVersion: 6.1.7601.24546
+C:\Windows\syswow64\GDI32.dll:GDI32.dll (75320000), size: 589824 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\GDI32.dll', fileVersion: 6.1.7601.24540
+C:\Windows\syswow64\LPK.dll:LPK.dll (74730000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\LPK.dll', fileVersion: 6.1.7601.24537
+C:\Windows\syswow64\USP10.dll:USP10.dll (748D0000), size: 643072 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\USP10.dll', fileVersion: 1.626.7601.24535
+C:\Windows\syswow64\ADVAPI32.dll:ADVAPI32.dll (74760000), size: 659456 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\ADVAPI32.dll', fileVersion: 6.1.7601.24545
+C:\Windows\SysWOW64\sechost.dll:sechost.dll (75460000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SysWOW64\sechost.dll', fileVersion: 6.1.7601.18869
+C:\Windows\syswow64\RPCRT4.dll:RPCRT4.dll (758C0000), size: 983040 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\RPCRT4.dll', fileVersion: 6.1.7601.24545
+C:\Windows\syswow64\SspiCli.dll:SspiCli.dll (74670000), size: 393216 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\SspiCli.dll', fileVersion: 6.1.7601.24545
+C:\Windows\syswow64\CRYPTBASE.dll:CRYPTBASE.dll (74660000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\CRYPTBASE.dll', fileVersion: 6.1.7601.24545
+C:\Windows\system32\VERSION.dll:VERSION.dll (713E0000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\VERSION.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\ole32.dll:ole32.dll (74ED0000), size: 1437696 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\ole32.dll', fileVersion: 6.1.7601.24537
+C:\Windows\syswow64\SHLWAPI.dll:SHLWAPI.dll (74870000), size: 356352 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\SHLWAPI.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\PSAPI.DLL:PSAPI.DLL (74720000), size: 20480 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\PSAPI.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\SHELL32.dll:SHELL32.dll (75C00000), size: 12894208 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\SHELL32.dll', fileVersion: 6.1.7601.24468
+C:\Windows\system32\OPENGL32.dll:OPENGL32.dll (6A840000), size: 819200 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\OPENGL32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\GLU32.dll:GLU32.dll (72880000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\GLU32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\DDRAW.dll:DDRAW.dll (6DC20000), size: 946176 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\DDRAW.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\DCIMAN32.dll:DCIMAN32.dll (728D0000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\DCIMAN32.dll', fileVersion: 6.1.7601.24537
+C:\Windows\syswow64\SETUPAPI.dll:SETUPAPI.dll (74D30000), size: 1691648 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\SETUPAPI.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\CFGMGR32.dll:CFGMGR32.dll (74AA0000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\CFGMGR32.dll', fileVersion: 6.1.7601.17621
+C:\Windows\syswow64\OLEAUT32.dll:OLEAUT32.dll (74970000), size: 598016 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\OLEAUT32.dll', fileVersion: 6.1.7601.24537
+C:\Windows\syswow64\DEVOBJ.dll:DEVOBJ.dll (74BE0000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\DEVOBJ.dll', fileVersion: 6.1.7601.17621
+C:\Windows\system32\dwmapi.dll:dwmapi.dll (70920000), size: 77824 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dwmapi.dll', fileVersion: 6.1.7601.18917
+C:\Windows\system32\WINMM.dll:WINMM.dll (70940000), size: 204800 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\WINMM.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\WS2_32.dll:WS2_32.dll (746E0000), size: 217088 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\WS2_32.dll', fileVersion: 6.1.7601.23451
+C:\Windows\syswow64\NSI.dll:NSI.dll (746D0000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\NSI.dll', fileVersion: 6.1.7601.23889
+C:\Windows\syswow64\IMM32.dll:IMM32.dll (74CD0000), size: 393216 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\IMM32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\MSCTF.dll:MSCTF.dll (74C00000), size: 843776 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\MSCTF.dll', fileVersion: 6.1.7601.24520
+C:\Windows\system32\DNSAPI.dll:DNSAPI.dll (71390000), size: 278528 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\DNSAPI.dll', fileVersion: 6.1.7601.24168
+C:\Windows\system32\IPHLPAPI.DLL:IPHLPAPI.DLL (72590000), size: 114688 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\IPHLPAPI.DLL', fileVersion: 6.1.7601.17514
+C:\Windows\system32\WINNSI.DLL:WINNSI.DLL (72580000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\WINNSI.DLL', fileVersion: 6.1.7601.23889
+C:\Windows\system32\WINHTTP.dll:WINHTTP.dll (6A7E0000), size: 360448 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\WINHTTP.dll', fileVersion: 6.1.7601.24000
+C:\Windows\system32\webio.dll:webio.dll (6C9B0000), size: 327680 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\webio.dll', fileVersion: 6.1.7601.23375
+D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 10oct 05, mech stress test\mech stress test_Data\Mono\mono.dll:mono.dll (10000000), size: 2297856 (result: 0), SymType: '-exported-', PDB: 'D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 10oct 05, mech stress test\mech stress test_Data\Mono\mono.dll', fileVersion: 1.0.0.1
+C:\Windows\system32\MSWSOCK.dll:MSWSOCK.dll (71400000), size: 245760 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\MSWSOCK.dll', fileVersion: 6.1.7601.23451
+C:\Windows\System32\wshtcpip.dll:wshtcpip.dll (71300000), size: 20480 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\wshtcpip.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\dhcpcsvc.DLL:dhcpcsvc.DLL (71370000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dhcpcsvc.DLL', fileVersion: 6.1.7601.24498
+C:\Windows\system32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (71450000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dhcpcsvc6.DLL', fileVersion: 6.1.7601.24498
+C:\Windows\system32\NLAapi.dll:NLAapi.dll (713F0000), size: 65536 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\NLAapi.dll', fileVersion: 6.1.7601.24000
+C:\Windows\system32\napinsp.dll:napinsp.dll (728C0000), size: 65536 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\napinsp.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\pnrpnsp.dll:pnrpnsp.dll (727D0000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\pnrpnsp.dll', fileVersion: 6.1.7600.16385
+C:\Windows\System32\winrnr.dll:winrnr.dll (728B0000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\winrnr.dll', fileVersion: 6.1.7600.16385
+C:\Windows\System32\wship6.dll:wship6.dll (71460000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\wship6.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (70EF0000), size: 524288 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\uxtheme.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\d3d9.dll:d3d9.dll (71800000), size: 1847296 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\d3d9.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\d3d8thk.dll:d3d8thk.dll (72220000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\d3d8thk.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\nvd3dum.dll:nvd3dum.dll (63B20000), size: 24498176 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\nvd3dum.dll', fileVersion: 27.21.14.6172
+C:\Windows\system32\api-ms-win-core-synch-l1-2-0.DLL:api-ms-win-core-synch-l1-2-0.DLL (72310000), size: 12288 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\api-ms-win-core-synch-l1-2-0.DLL', fileVersion: 10.0.14393.2990
+C:\Windows\syswow64\WINTRUST.dll:WINTRUST.dll (74810000), size: 192512 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\WINTRUST.dll', fileVersion: 6.1.7601.24542
+C:\Windows\syswow64\CRYPT32.dll:CRYPT32.dll (75A50000), size: 1187840 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\CRYPT32.dll', fileVersion: 6.1.7601.24542
+C:\Windows\syswow64\MSASN1.dll:MSASN1.dll (74860000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\MSASN1.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\cryptnet.dll:cryptnet.dll (71160000), size: 118784 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\cryptnet.dll', fileVersion: 6.1.7601.24542
+C:\Windows\syswow64\WLDAP32.dll:WLDAP32.dll (76B20000), size: 282624 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\WLDAP32.dll', fileVersion: 6.1.7601.23889
+C:\Windows\system32\nvspcap.dll:nvspcap.dll (66A00000), size: 2224128 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\nvspcap.dll', fileVersion: 3.23.0.74
+C:\Windows\syswow64\profapi.dll:profapi.dll (74850000), size: 45056 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\syswow64\profapi.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\ntmarta.dll:ntmarta.dll (71BC0000), size: 135168 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\ntmarta.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\imagehlp.dll:imagehlp.dll (75BD0000), size: 176128 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\imagehlp.dll', fileVersion: 6.1.7601.18288
+C:\Windows\system32\CRYPTSP.dll:CRYPTSP.dll (71DD0000), size: 94208 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\CRYPTSP.dll', fileVersion: 6.1.7601.24499
+C:\Windows\system32\rsaenh.dll:rsaenh.dll (71D90000), size: 241664 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\rsaenh.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\ncrypt.dll:ncrypt.dll (71200000), size: 233472 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\ncrypt.dll', fileVersion: 6.1.7601.24545
+C:\Windows\system32\bcrypt.dll:bcrypt.dll (711E0000), size: 94208 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\bcrypt.dll', fileVersion: 6.1.7601.24545
+C:\Windows\SysWOW64\bcryptprimitives.dll:bcryptprimitives.dll (711A0000), size: 249856 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SysWOW64\bcryptprimitives.dll', fileVersion: 6.1.7601.23451
+C:\Windows\syswow64\USERENV.dll:USERENV.dll (74740000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\USERENV.dll', fileVersion: 6.1.7601.24535
+C:\Windows\system32\GPAPI.dll:GPAPI.dll (71180000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\GPAPI.dll', fileVersion: 6.1.7601.23452
+C:\Windows\syswow64\CLBCatQ.DLL:CLBCatQ.DLL (759B0000), size: 536576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\CLBCatQ.DLL', fileVersion: 2001.12.8530.16385
+C:\Windows\System32\MMDevApi.dll:MMDevApi.dll (72450000), size: 233472 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\MMDevApi.dll', fileVersion: 6.1.7601.17514
+C:\Windows\System32\PROPSYS.dll:PROPSYS.dll (71680000), size: 1003520 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\PROPSYS.dll', fileVersion: 7.0.7601.17514
+C:\Windows\system32\wdmaud.drv:wdmaud.drv (6D000000), size: 196608 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wdmaud.drv', fileVersion: 6.1.7601.17514
+C:\Windows\system32\ksuser.dll:ksuser.dll (72870000), size: 16384 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\ksuser.dll', fileVersion: 6.1.7601.19091
+C:\Windows\system32\AVRT.dll:AVRT.dll (727C0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\AVRT.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\AUDIOSES.DLL:AUDIOSES.DLL (68410000), size: 221184 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\AUDIOSES.DLL', fileVersion: 6.1.7601.24523
+C:\Windows\system32\msacm32.drv:msacm32.drv (727B0000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\msacm32.drv', fileVersion: 6.1.7600.16385
+C:\Windows\system32\MSACM32.dll:MSACM32.dll (70900000), size: 81920 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\MSACM32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\midimap.dll:midimap.dll (726C0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\midimap.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\xinput1_3.dll:xinput1_3.dll (07750000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\xinput1_3.dll', fileVersion: 9.18.944.0
+C:\Program Files (x86)\DisplayFusion\Hooks\AppHookWIN6032_A433CF31-DCA3-49BE-B5AE-7948A7405138.dll:AppHookWIN6032_A433CF31-DCA3-49BE-B5AE-7948A7405138.dll (0D140000), size: 303104 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\DisplayFusion\Hooks\AppHookWIN6032_A433CF31-DCA3-49BE-B5AE-7948A7405138.dll', fileVersion: 7.0.0.11
+C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.24483_none_2b200f664577e14b\COMCTL32.dll:COMCTL32.dll (72D20000), size: 1695744 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.24483_none_2b200f664577e14b\COMCTL32.dll', fileVersion: 6.10.7601.24483
+C:\Windows\system32\wbem\wbemprox.dll:wbemprox.dll (71F10000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wbem\wbemprox.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\wbemcomn.dll:wbemcomn.dll (71620000), size: 376832 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wbemcomn.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\RpcRtRemote.dll:RpcRtRemote.dll (71D80000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\RpcRtRemote.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\wbem\wbemsvc.dll:wbemsvc.dll (71560000), size: 61440 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wbem\wbemsvc.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\wbem\fastprox.dll:fastprox.dll (714C0000), size: 614400 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wbem\fastprox.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\NTDSAPI.dll:NTDSAPI.dll (714A0000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\NTDSAPI.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\credssp.dll:credssp.dll (71290000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\credssp.dll', fileVersion: 6.1.7601.24545
+C:\Windows\system32\rasadhlp.dll:rasadhlp.dll (712F0000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\rasadhlp.dll', fileVersion: 6.1.7600.16385
+C:\Windows\System32\fwpuclnt.dll:fwpuclnt.dll (712A0000), size: 229376 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\fwpuclnt.dll', fileVersion: 6.1.7601.24000
+C:\Windows\system32\dbghelp.dll:dbghelp.dll (71FE0000), size: 962560 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dbghelp.dll', fileVersion: 6.1.7601.17514
+
+========== OUTPUTING STACK TRACE ==================
+
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 01AC38EA)
+0x01AC38EA (mech stress test) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 01ACB4DF)
+0x01ACB4DF (mech stress test) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 01AC460C)
+0x01AC460C (mech stress test) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 01CBB6DC)
+0x01CBB6DC (mech stress test) 
+0x069D79B5 (Mono JIT Code) (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+0x06A3EFC8 (Mono JIT Code) [D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Assets\7-system\game manager\g_GameManager.cs:28] g_GameManager:Awake () 
+0x069C1A97 (Mono JIT Code) (wrapper runtime-invoke) object:runtime_invoke_void__this__ (object,intptr,intptr,intptr)
+0x100F1808 (mono) mono_set_defaults
+0x1005D887 (mono) mono_runtime_invoke
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 01ACB550)
+0x01ACB550 (mech stress test) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 01AC7488)
+0x01AC7488 (mech stress test) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 01AC7D30)
+0x01AC7D30 (mech stress test) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 01D29CDE)
+0x01D29CDE (mech stress test) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 01D2A2BD)
+0x01D2A2BD (mech stress test) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 01D2C8AC)
+0x01D2C8AC (mech stress test) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 016F584A)
+0x016F584A (mech stress test) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 01D2A93A)
+0x01D2A93A (mech stress test) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 01AD4287)
+0x01AD4287 (mech stress test) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 01AD7460)
+0x01AD7460 (mech stress test) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 01AA5EBA)
+0x01AA5EBA (mech stress test) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 01AA903C)
+0x01AA903C (mech stress test) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 01AA7E23)
+0x01AA7E23 (mech stress test) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 01AA80D2)
+0x01AA80D2 (mech stress test) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 01D12644)
+0x01D12644 (mech stress test) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 01457ED3)
+0x01457ED3 (mech stress test) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 01EA44A8)
+0x01EA44A8 (mech stress test) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 01EE5813)
+0x01EE5813 (mech stress test) 
+0x74AE343D (kernel32) BaseThreadInitThunk
+0x76F89812 (ntdll) RtlInitializeExceptionChain
+0x76F897E5 (ntdll) RtlInitializeExceptionChain
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****

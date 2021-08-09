@@ -1,0 +1,125 @@
+Mono path[0] = 'D:/Neo Paciffica/Learn to Things/Unity/Projects/Completed/MechTest/Builds/mechtest curr ver_Data/Managed'
+Mono path[1] = 'D:/Neo Paciffica/Learn to Things/Unity/Projects/Completed/MechTest/Builds/mechtest curr ver_Data/Mono'
+Mono config path = 'D:/Neo Paciffica/Learn to Things/Unity/Projects/Completed/MechTest/Builds/mechtest curr ver_Data/Mono/etc'
+PlayerConnection initialized from D:/Neo Paciffica/Learn to Things/Unity/Projects/Completed/MechTest/Builds/mechtest curr ver_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55366
+Multi-casting "[IP] 192.168.1.161 [Port] 55366 [Flags] 3 [Guid] 219959704 [EditorId] 2147331512 [Version] 1048832 [Id] WindowsPlayer(LEVIATHAN) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [0.0.0.0:55366]...
+PlayerConnection accepted from [192.168.1.161] handle:0x26c
+Started listening to [0.0.0.0:55366]
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56704
+PlayerConnection already initialized - listening to [0.0.0.0:55366]
+Player data archive not found at `D:/Neo Paciffica/Learn to Things/Unity/Projects/Completed/MechTest/Builds/mechtest curr ver_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 27.21.14.6172]
+    Renderer: NVIDIA GeForce GTX 1060 6GB
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\mechtest curr ver_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\mechtest curr ver_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\mechtest curr ver_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\mechtest curr ver_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\mechtest curr ver_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\mechtest curr ver_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\mechtest curr ver_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\mechtest curr ver_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\mechtest curr ver_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\mechtest curr ver_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\mechtest curr ver_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\mechtest curr ver_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\mechtest curr ver_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\mechtest curr ver_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\mechtest curr ver_Data\Managed\XInputDotNetPure.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\mechtest curr ver_Data\Managed\XInputDotNetPure.dll into Unity Child Domain
+- Completed reload, in  0.435 seconds
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\mechtest curr ver_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\mechtest curr ver_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Setting to default shader.
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 5460x1680 at -1440,-331
+<RI> Initialized touch support.
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 1.290534 ms
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1088 -> priority: 1 
+  Thread -> id: 24b0 -> priority: 1 
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 3.166914 ms
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+System memory in use before: 97.2 MB.
+System memory in use after: 95.8 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 15794.
+Total: 22.249701 ms (FindLiveObjects: 4.203004 ms CreateObjectMapping: 0.593292 ms MarkObjects: 5.022504 ms  DeleteObjects: 12.429970 ms)
+
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\mechtest curr ver_Data\Managed\Boo.Lang.dll (this message is harmless)
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+Releasing render texture that is set as Camera.targetTexture!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Camera/Camera.cpp Line: 3422)
+
+Releasing render texture that is set as Camera.targetTexture!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Camera/Camera.cpp Line: 3422)
+
+Releasing render texture that is set as Camera.targetTexture!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Camera/Camera.cpp Line: 3422)
+
+Releasing render texture that is set as Camera.targetTexture!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Camera/Camera.cpp Line: 3422)
+
+Releasing render texture that is set as Camera.targetTexture!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Camera/Camera.cpp Line: 3422)
+
+Releasing render texture that is set as Camera.targetTexture!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Camera/Camera.cpp Line: 3422)
+
+Releasing render texture that is set as Camera.targetTexture!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Camera/Camera.cpp Line: 3422)
+
+Releasing render texture that is set as Camera.targetTexture!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Camera/Camera.cpp Line: 3422)
+
+Releasing render texture that is set as Camera.targetTexture!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Camera/Camera.cpp Line: 3422)
+
+Releasing render texture that is set as Camera.targetTexture!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Camera/Camera.cpp Line: 3422)
+
+Releasing render texture that is set as Camera.targetTexture!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Camera/Camera.cpp Line: 3422)
+
+Waiting for finish

@@ -1,0 +1,56 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 27.21.14.6172]
+    Renderer: NVIDIA GeForce GTX 1060 6GB
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 01jan26 mechfight ver2.1\mechfight(ver2.1)_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 01jan26 mechfight ver2.1\mechfight(ver2.1)_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 01jan26 mechfight ver2.1\mechfight(ver2.1)_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 01jan26 mechfight ver2.1\mechfight(ver2.1)_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 01jan26 mechfight ver2.1\mechfight(ver2.1)_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 01jan26 mechfight ver2.1\mechfight(ver2.1)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 01jan26 mechfight ver2.1\mechfight(ver2.1)_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 01jan26 mechfight ver2.1\mechfight(ver2.1)_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 01jan26 mechfight ver2.1\mechfight(ver2.1)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 01jan26 mechfight ver2.1\mechfight(ver2.1)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 01jan26 mechfight ver2.1\mechfight(ver2.1)_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 01jan26 mechfight ver2.1\mechfight(ver2.1)_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 01jan26 mechfight ver2.1\mechfight(ver2.1)_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 01jan26 mechfight ver2.1\mechfight(ver2.1)_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 01jan26 mechfight ver2.1\mechfight(ver2.1)_Data\Managed\XInputDotNetPure.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 01jan26 mechfight ver2.1\mechfight(ver2.1)_Data\Managed\XInputDotNetPure.dll into Unity Child Domain
+- Completed reload, in  0.839 seconds
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 01jan26 mechfight ver2.1\mechfight(ver2.1)_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 01jan26 mechfight ver2.1\mechfight(ver2.1)_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Setting to default shader.
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 5460x1680 at -1440,-331
+<RI> Initialized touch support.
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+The referenced script on this Behaviour (Game Object '_light') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'explsnHvy') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'explsnLight') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '_light') is missing!
+ 
+(Filename:  Line: 1743)
+
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 1.107147 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1e0c -> priority: 1 
+  Thread -> id: 1eb0 -> priority: 1 

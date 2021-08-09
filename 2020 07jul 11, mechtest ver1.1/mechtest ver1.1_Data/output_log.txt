@@ -1,0 +1,77 @@
+Mono path[0] = 'D:/Neo Paciffica/Learn to Things/Unity/Projects/Completed/MechTest/Builds/2020 07jul 11 mechtest ver1.1/mechtest ver1.1_Data/Managed'
+Mono path[1] = 'D:/Neo Paciffica/Learn to Things/Unity/Projects/Completed/MechTest/Builds/2020 07jul 11 mechtest ver1.1/mechtest ver1.1_Data/Mono'
+Mono config path = 'D:/Neo Paciffica/Learn to Things/Unity/Projects/Completed/MechTest/Builds/2020 07jul 11 mechtest ver1.1/mechtest ver1.1_Data/Mono/etc'
+PlayerConnection initialized from D:/Neo Paciffica/Learn to Things/Unity/Projects/Completed/MechTest/Builds/2020 07jul 11 mechtest ver1.1/mechtest ver1.1_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55072
+Multi-casting "[IP] 192.168.1.161 [Port] 55072 [Flags] 3 [Guid] 2840643642 [EditorId] 1926294936 [Version] 1048832 [Id] WindowsPlayer(LEVIATHAN) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [0.0.0.0:55072]...
+Timed out. Continuing without host connection.
+Started listening to [0.0.0.0:55072]
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56642
+PlayerConnection already initialized - listening to [0.0.0.0:55072]
+Player data archive not found at `D:/Neo Paciffica/Learn to Things/Unity/Projects/Completed/MechTest/Builds/2020 07jul 11 mechtest ver1.1/mechtest ver1.1_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 27.21.14.6172]
+    Renderer: NVIDIA GeForce GTX 1060 6GB
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 07jul 11 mechtest ver1.1\mechtest ver1.1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 07jul 11 mechtest ver1.1\mechtest ver1.1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 07jul 11 mechtest ver1.1\mechtest ver1.1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 07jul 11 mechtest ver1.1\mechtest ver1.1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 07jul 11 mechtest ver1.1\mechtest ver1.1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 07jul 11 mechtest ver1.1\mechtest ver1.1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 07jul 11 mechtest ver1.1\mechtest ver1.1_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 07jul 11 mechtest ver1.1\mechtest ver1.1_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 07jul 11 mechtest ver1.1\mechtest ver1.1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 07jul 11 mechtest ver1.1\mechtest ver1.1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 07jul 11 mechtest ver1.1\mechtest ver1.1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 07jul 11 mechtest ver1.1\mechtest ver1.1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 07jul 11 mechtest ver1.1\mechtest ver1.1_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 07jul 11 mechtest ver1.1\mechtest ver1.1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 07jul 11 mechtest ver1.1\mechtest ver1.1_Data\Managed\XInputDotNetPure.dll (this message is harmless)
+Loading D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 07jul 11 mechtest ver1.1\mechtest ver1.1_Data\Managed\XInputDotNetPure.dll into Unity Child Domain
+- Completed reload, in  0.031 seconds
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 07jul 11 mechtest ver1.1\mechtest ver1.1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Neo Paciffica\Learn to Things\Unity\Projects\Completed\MechTest\Builds\2020 07jul 11 mechtest ver1.1\mechtest ver1.1_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Setting to default shader.
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 5460x1680 at -1440,-331
+<RI> Initialized touch support.
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 1.084185 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 8a4 -> priority: 1 
+  Thread -> id: 1c94 -> priority: 1 
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+The referenced script on this Behaviour (Game Object '_light') is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'explsnHvy') is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'explsnLight') is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1743)
+
+The referenced script on this Behaviour (Game Object '_light') is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1743)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 2.060697 ms
+System memory in use before: 81.6 MB.
+System memory in use after: 81.7 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 6503.
+Total: 4.111776 ms (FindLiveObjects: 0.381047 ms CreateObjectMapping: 0.105812 ms MarkObjects: 2.484256 ms  DeleteObjects: 1.139729 ms)
+
